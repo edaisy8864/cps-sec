@@ -1,11 +1,7 @@
 # cps-sec
 2020년 1학기 cps 실습 수업
 
-## 조교
+# 2018461 정가원 입니다.
 
-  - 최동준
-    - email zzczzc123@gmail.com
-  - 박성환
-    - hp 010-7252-6309
-    - email tjdghks994@gmail.com
-  - 최병준
+# 4th폴더는 4주차 과제입니다.
+# 6th폴더는 6주차 과제입니다.
